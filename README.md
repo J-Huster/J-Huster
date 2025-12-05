@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="https://github.com/J-Huster/J-Huster/blob/main/typewriter.gif" alt="Hello, I'm Johanna">
 
 <!--
 **J-Huster/J-Huster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
