@@ -18,4 +18,6 @@ Website used to create gif: https://willkessler.github.io/typed-text-gif-maker/
 | JavaScipt| [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) |
 | BASH | [![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev) |
 
+<!--
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/J-Huster/J-Huster/blob/main/quote.json)
+-->
