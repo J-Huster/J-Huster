@@ -11,6 +11,9 @@ Website used to create gif: https://willkessler.github.io/typed-text-gif-maker/
   - [Mag-Lock-and-Buttons-Puzzle](https://github.com/J-Huster/Mag-Lock-and-Buttons-Puzzle)
   - [Three-Button-Keyboard](https://github.com/J-Huster/Three-Button-Keyboard)
 
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,bash)](https://skillicons.dev)
+
+<!--
 | Language | Icon |
 | ----------- | ----------- |
 | Python | [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev) |
@@ -18,6 +21,5 @@ Website used to create gif: https://willkessler.github.io/typed-text-gif-maker/
 | JavaScipt| [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) |
 | BASH | [![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev) |
 
-<!--
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote?quotesUrl=https://github.com/J-Huster/J-Huster/blob/main/quote.json)
 -->
